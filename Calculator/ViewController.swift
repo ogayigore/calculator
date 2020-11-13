@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by Игорь Огай on 01/12/2018.
-//  Copyright © 2018 Игорь Огай. All rights reserved.
-//
 
 import UIKit
 
